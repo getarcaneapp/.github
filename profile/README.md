@@ -32,13 +32,13 @@ Thank you for checking out Arcane! Your feedback and contributions are always we
 <p align="center"><sub><strong>SUPPORTED BY</strong></sub></p>
 
 <p align="center">
-	<img src="../assets/greptile.svg" alt="Greptile" height="24" style="vertical-align: middle;" />
-	&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="../assets/graphite.png" alt="Graphite" height="18" style="vertical-align: middle;" /> <strong style="vertical-align: middle;">Graphite</strong>
-	&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="../assets/depot-logo-horizontal-on-dark.svg" alt="Depot" height="24" style="vertical-align: middle;" />
-	&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="../assets/orbstack.png" alt="OrbStack" height="18" style="vertical-align: middle;" /> <strong style="vertical-align: middle;">OrbStack</strong>
+	<img src="../assets/greptile.svg" alt="Greptile" height="24" />
+	&nbsp;&nbsp;&nbsp;
+	<img src="../assets/graphite.png" alt="Graphite" height="24" /> <strong>Graphite</strong>
+	&nbsp;&nbsp;&nbsp;
+	<img src="../assets/depot-logo-horizontal-on-dark.svg" alt="Depot" height="24" />
+	&nbsp;&nbsp;&nbsp;
+	<img src="../assets/orbstack.png" alt="OrbStack" height="24" /> <strong>OrbStack</strong>
 </p>
 
 </div>
