@@ -30,4 +30,30 @@ Help translate Arcane on Crowdin: https://crowdin.com/project/arcane-docker-mana
 
 Thank you for checking out Arcane! Your feedback and contributions are always welcome.
 
+<br />
+
+<p align="center"><sub><strong>SUPPORTED BY</strong></sub></p>
+
+<table align="center">
+	<tr>
+		<td align="center" valign="middle">
+			<img src="../assets/greptile.svg" alt="Greptile" height="24" />
+		</td>
+		<td width="28"></td>
+		<td align="center" valign="middle">
+			<img src="../assets/graphite.png" alt="Graphite" height="22" />
+			<strong>&nbsp;Graphite</strong>
+		</td>
+		<td width="28"></td>
+		<td align="center" valign="middle">
+			<img src="../assets/depot-logo-horizontal-on-dark.svg" alt="Depot" height="24" />
+		</td>
+		<td width="28"></td>
+		<td align="center" valign="middle">
+			<img src="../assets/orbstack.png" alt="OrbStack" height="24" />
+			<strong>&nbsp;OrbStack</strong>
+		</td>
+	</tr>
+</table>
+
 </div>
