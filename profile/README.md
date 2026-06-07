@@ -7,8 +7,8 @@
 Built and maintained by the <strong>@getarcaneapp</strong> organization.
 </p>
 
-<a href="https://pkg.go.dev/github.com/getarcaneapp/arcane/backend"><img src="https://pkg.go.dev/badge/github.com/getarcaneapp/arcane/backend.svg" alt="Go Reference"></a>
-<a href="https://goreportcard.com/report/github.com/getarcaneapp/arcane/backend"><img src="https://goreportcard.com/badge/github.com/getarcaneapp/arcane/backend" alt="Go Report Card"></a>
+<a href="https://pkg.go.dev/github.com/getarcaneapp/arcane/backend/v2"><img src="https://pkg.go.dev/badge/github.com/getarcaneapp/arcane/backend/v2.svg" alt="Go Reference"></a>
+<a href="https://goreportcard.com/report/github.com/getarcaneapp/arcane/backend/v2"><img src="https://goreportcard.com/badge/github.com/getarcaneapp/arcane/backend/v2" alt="Go Report Card"></a>
 <a href="https://github.com/getarcaneapp/arcane/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-BSD--3--Clause-blue.svg" alt="License"></a>
 
 <br />
