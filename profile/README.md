@@ -29,6 +29,16 @@ Thank you for checking out Arcane! Your feedback and contributions are always we
 
 <br />
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=getarcaneapp%2Farcane&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=getarcaneapp/arcane&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=getarcaneapp/arcane&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=getarcaneapp/arcane&type=date&legend=bottom-right" />
+ </picture>
+</a>
+
 <p align="center"><sub><strong>SUPPORTED BY</strong></sub></p>
 
 <p align="center">
