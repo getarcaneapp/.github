@@ -30,11 +30,11 @@ Thank you for checking out Arcane! Your feedback and contributions are always we
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=getarcaneapp%2Farcane&type=date&legend=bottom-right">
+<a href="https://www.star-history.com/?repos=getarcaneapp%2Farcane&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=getarcaneapp/arcane&type=date&theme=dark&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=getarcaneapp/arcane&type=date&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=getarcaneapp/arcane&type=date&legend=bottom-right" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=getarcaneapp/arcane&type=date&theme=dark&legend=top-left&sealed_token=IlzFS3DBkX2vVlKvkhmJ-Hjhw_ATprjU-KStYfRGVDQFfdeZiSgMufJsvV4xiNwKHLid7Azg50v8-SRap9FttGX5JDMlFUKLhqL4cNc6YXCMrw0aePpSPA" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=getarcaneapp/arcane&type=date&legend=top-left&sealed_token=IlzFS3DBkX2vVlKvkhmJ-Hjhw_ATprjU-KStYfRGVDQFfdeZiSgMufJsvV4xiNwKHLid7Azg50v8-SRap9FttGX5JDMlFUKLhqL4cNc6YXCMrw0aePpSPA" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=getarcaneapp/arcane&type=date&legend=top-left&sealed_token=IlzFS3DBkX2vVlKvkhmJ-Hjhw_ATprjU-KStYfRGVDQFfdeZiSgMufJsvV4xiNwKHLid7Azg50v8-SRap9FttGX5JDMlFUKLhqL4cNc6YXCMrw0aePpSPA" />
  </picture>
 </a>
 
