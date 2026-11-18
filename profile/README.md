@@ -15,6 +15,13 @@ Built and maintained by the <strong>@getarcaneapp</strong> organization.
 
 <br />
 
+<p align="center">
+ <a href="https://www.star-history.com/getarcaneapp/arcane">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?repo=getarcaneapp/arcane&type=rank&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?repo=getarcaneapp/arcane&type=rank" /><img alt="Star History Rank" src="https://api.star-history.com/badge?repo=getarcaneapp/arcane&type=rank" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?repo=getarcaneapp/arcane&type=trending&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?repo=getarcaneapp/arcane&type=trending" /><img alt="GitHub Trending Repository of the Day" src="https://api.star-history.com/badge?repo=getarcaneapp/arcane&type=trending" /></picture>
+ </a>
+</p>
+
+
 ## Documentation
 
 For setup instructions, configuration details, and development guides, visit the **[official documentation site](https://getarcane.app)**.
